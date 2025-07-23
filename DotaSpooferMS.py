@@ -225,3 +225,5 @@ if __name__ == "__main__":
         print(f"\n[!] Критическая ошибка: {str(e)}")
     
     input("\nНажмите Enter для выхода...")
+
+#maximsv
